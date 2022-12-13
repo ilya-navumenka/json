@@ -1,0 +1,12 @@
+{
+    "data":[
+        {
+            "name": "test1",
+            "price": 240
+        },
+
+        {
+            "name": "test2",
+            "price": 290
+        }
+    }
